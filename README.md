@@ -1,2 +1,1 @@
 # MykolaTikhonenko_MA2018Python
-# MykolaTikhonenko_MA2018Python
