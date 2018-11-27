@@ -11,7 +11,7 @@ s3 = '0'
 s2 = '0'
 s0 = '0'
 
-interval = 1
+interval = 100
 seconds_counter = 0
 minute_counter = 0
 # switch value
