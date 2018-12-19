@@ -1,5 +1,8 @@
 # MykolaTikhonenko_MA2018Python
 
+Homework 06
+http://www.codeskulptor.org/#user45_dbDo5drNlZ_8.py
+
 Homework 05
 http://www.codeskulptor.org/#user45_UIu0B0YQKG_20.py
 
